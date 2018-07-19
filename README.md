@@ -1,5 +1,4 @@
-# TensorFlowAndroidMNIST
-Tensorflow Version: 0.8
-<p align="left">
-  <img src="/screenshot/Screenshot.png" width="250"/>
-</p>
+# EMNIST-android
+Android implementation of the model created and trained in the project - https://github.com/shubhammor0403/EMNIST
+
+<a href="https://imgflip.com/gif/2eb4ea"><img src="https://i.imgflip.com/2eb4ea.gif" title="made at imgflip.com"/></a>
